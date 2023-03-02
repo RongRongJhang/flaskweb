@@ -10,6 +10,7 @@
 - 登出功能
 
 ◆ 程式目錄架構
+>`tree -a -I '__pycache__|migrations|venv|.mypy_cache|.vscode' -L 5`
 ```
 .
 ├── apps
