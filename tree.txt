@@ -1,0 +1,31 @@
+.
+├── apps
+│   ├── app.py
+│   ├── auth
+│   │   ├── forms.py
+│   │   ├── templates
+│   │   │   └── auth
+│   │   │       ├── base.html
+│   │   │       ├── index.html
+│   │   │       ├── login.html
+│   │   │       └── signup.html
+│   │   └── views.py
+│   ├── config.py
+│   └── crud
+│       ├── forms.py
+│       ├── models.py
+│       ├── static
+│       │   └── style.css
+│       ├── templates
+│       │   └── crud
+│       │       ├── base.html
+│       │       ├── create.html
+│       │       ├── edit.html
+│       │       └── index.html
+│       └── views.py
+├── .env
+├── .gitignore
+├── local.sqlite
+└── tree.txt
+
+8 directories, 20 files
